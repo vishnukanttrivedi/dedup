@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "dedup", "dedup.pyproj", "{54E4D143-2369-46D0-98E4-BCBE1B4C179A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54E4D143-2369-46D0-98E4-BCBE1B4C179A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E4D143-2369-46D0-98E4-BCBE1B4C179A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92EA48FE-8C9F-40D2-A66A-6A4DEE5BCEFC}
+	EndGlobalSection
+EndGlobal
